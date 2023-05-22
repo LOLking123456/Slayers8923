@@ -1,8 +1,4 @@
-spawn(function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LOLking123456/PS/main/RobloxSlayers"))()
-end)
-wait(0.5)
-spawn(function()
+
         local Library =
             loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
         local Window = Library.CreateLib("NEW VIDEO OUT FOR UPDATED PROJECT SLAYERS GUI", "Ocean")
@@ -23,5 +19,5 @@ local CoreGui = game:GetService("StarterGui") -- Variable of StarterGui
     setclipboard("https://youtu.be/G79rpRXyrTk")
 	toclipboard("https://youtu.be/G79rpRXyrTk")
             end)
-end)
+
 
